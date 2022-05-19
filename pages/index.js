@@ -10,7 +10,9 @@ export default function Home() {
       </Head>
 
       <main >
-        lopez meet
+        <h1 className="text-3xl font-bold underline">
+          lopez meet
+        </h1>
       </main>
     </div>
   )
