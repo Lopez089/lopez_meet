@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.hero {
+
+    background-color: #ffffff;
+    opacity: 1;
+    background-image: radial-gradient(#FACC14 1.1500000000000001px, transparent 1.1500000000000001px), radial-gradient(#FACC14 1.1500000000000001px, #ffffff 1.1500000000000001px);
+    background-size: 80px 80px;
+    background-position: 0 0, 40px 40px;
+}
